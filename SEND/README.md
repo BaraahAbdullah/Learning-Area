@@ -1,6 +1,6 @@
-## SEND website
+# SEND website
 this website build by using HTML and CSS only.
-# Just for Trainig.
+## Just for Trainig.
 
 
 
